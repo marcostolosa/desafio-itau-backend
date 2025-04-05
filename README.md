@@ -39,9 +39,9 @@ java -jar target/desafio-itau-backend-1.0-SNAPSHOT.jar --server.port=8080
 ```
 
 Acesse:
-- API: [http://localhost:8080](http://localhost:8080)
-- Swagger UI: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-
+- **API**: [http://localhost:8080](http://localhost:8080)
+- **Swagger UI**: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+![](img/05.png)
 ---
 
 ## 🐳 Rodando com Docker
@@ -60,6 +60,7 @@ mvn test
 ```
 
 Relatório de cobertura: [target/site/jacoco/index.html](target/site/jacoco/index.html)
+![](img/06.png)
 
 ---
 

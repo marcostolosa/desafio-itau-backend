@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  desafio-itau-backend:
+    image: desafio-itau-backend
+    container_name: desafio-itau-backend
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
