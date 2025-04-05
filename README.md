@@ -3,7 +3,7 @@
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://maven.apache.org/)
 [![Java](https://img.shields.io/badge/Java-22-blue.svg)](https://adoptium.net/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.4-brightgreen)](https://spring.io/projects/spring-boot)
-[![Coverage](https://img.shields.io/badge/Coverage-90%25-blueviolet)](target/site/jacoco/index.html)
+[![Coverage](https://img.shields.io/badge/Coverage-82%25-blueviolet)](target/site/jacoco/index.html)
 [![Docker Ready](https://img.shields.io/badge/Docker-Ready-blue)](https://www.docker.com/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
