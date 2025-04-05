@@ -48,7 +48,7 @@ Acesse:
 
 ```bash
 docker build -t desafio-itau-backend .
-docker run -p 8080:8080 desafio-itau-backend
+docker-compose up 
 ```
 
 ---
