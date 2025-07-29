@@ -42,6 +42,7 @@ Acesse:
 - **API**: [http://localhost:8080](http://localhost:8080)
 - **Swagger UI**: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 ![](img/05.png)
+
 ---
 
 ## 🐳 Rodando com Docker
